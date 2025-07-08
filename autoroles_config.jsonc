@@ -1,0 +1,52 @@
+{
+  "frutas": {
+    "🍉": 1383619521931378708, // Watermelon
+    "🌸": 1391497156464218152, // Ember lily 
+    "🫛": 1391497206225178787, // Beanstalk
+    "🍫": 1391497235824377906, // Cacao
+    "🍏": 1383985194041868438, // Sugar Apple
+    "🍇": 1391496852293288066, // Grape
+    "🌶️": 1391497116697755818, // Pepper
+    "🔥": 1391496787143036938, // Burning Bug
+    "🐉": 1391497317789597716, // Dragonfruit
+    "🍄": 1391497283916402859, // Mushroom
+    "🥭": 1391497420130750595, // Mango
+    "🌵": 1391497383900217354, // Cactus
+    "🥥": 1391496914377113602, // Coconut
+    "🎍": 1391496970333585518, // Bamboo
+    "🍎": 1391497072896643234, // Apple
+    "🎃": 1391497353826926714 // Pumpkin
+  },
+  "clima": {
+    "❄️": 1386042123404578929, // Nieve
+    "🌧️": 1386041557882507294, // Lluvia
+    "🌩️": 1386042222360793202, // Tormenta
+    "🌙": 1386042271102931036, // Noche
+    "☄️": 1391601604502749194, // Meteor Shower
+    "☀️": 1391601692201455656, // Heatwave
+    "🐵": 1391601911156838541, // Sun god
+    "🌌": 1391601854181412926, // Aurora
+    "🪩": 1391601779306269696 // Disco
+    "🌈": 1391601736466940998 // Sandstorm
+  },
+  "gears": {
+    "💧": 1386058618771865742, // Advanced sprinkler
+    "🌊": 1383623130203033641, // Master Sprinkler
+    "💦": 1383623016163840020, // Godly Sprinkler
+    "🔎": 1391495531087528029, // Magnifying glass
+    "🪞": 1391496051084492890 // Tanning mirror
+  },
+  "events": {
+    "🐝": 1391495484144881805 // Bee egg
+  },
+  "eggs": {
+    "🥚": 1383620622986510507, // Mythical Egg
+    "🐞": 1383621259140530196, // Bug egg  
+    "🌴": 1386137820682518629, // Rare summer egg
+    "🌅": 1386137974760018023, // Common summer egg
+    "🔆": 1386119333134073896 // Paradise egg
+  }
+}
+// Cambiando los emojis y los IDs de roles según las necesidades del servidor
+// Asegúrate de que los emojis y los IDs de roles sean válidos y existan en tu servidor
+// Puedes agregar más categorías y emojis según sea necesario
