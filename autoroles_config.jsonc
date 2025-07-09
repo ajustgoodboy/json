@@ -43,9 +43,10 @@
     "🥚": 1383620622986510507, // Mythical Egg
     "🐞": 1383621259140530196, // Bug egg  
     "🌴": 1386137820682518629, // Rare summer egg
-    "🌅": 1386137974760018023, // Common summer egg
+    "🌅": 1386137974760018023, // Common summer egg      
     "🔆": 1386119333134073896 // Paradise egg
-},
+  }
+}
 // Cambiando los emojis y los IDs de roles según las necesidades del servidor
 // Asegúrate de que los emojis y los IDs de roles sean válidos y existan en tu servidor
 // Puedes agregar más categorías y emojis según sea necesario
